@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">👋 嗨，我是 cicada (@wg2038)</h1>
   <p align="center">
-    <strong>Android & Kotlin Developer · Sensor Systems · Jetpack Compose · UI/UX Craftsman</strong>
+    <strong>业余 Android / Web 开发者 · F1 车迷 · 喜欢手搓纯粹实用的小工具</strong>
   </p>
 </p>
 
@@ -9,23 +9,23 @@
   <a href="https://github.com/wg2038">
     <img src="https://komarev.com/ghpvc/?username=wg2038&label=Profile%20Views&color=007ec6&style=flat-square" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Android_/_Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Architecture-100%25_Offline-success?style=flat-square" alt="Offline" />
-  <img src="https://img.shields.io/badge/UI-Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Focus-Android_/_Web-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Design-100%25_Offline-success?style=flat-square" alt="Offline" />
+  <img src="https://img.shields.io/badge/UI-Jetpack_Compose_/_React-4285F4?style=flat-square&logo=android&logoColor=white" alt="UI" />
 </p>
 
 ---
 
 ### 👨‍💻 关于我 (About Me)
 
-- 📱 专注于 **Android 底层系统服务**、**高精度传感器融合算法** 与 **现代 Jetpack Compose** 界面交互。
-- 🔋 坚定的 **超低功耗与极致瘦身** 践行者（手写矢量图标库，剥离臃肿依赖，实现微秒级低唤醒深度睡眠）。
-- 🛡️ 倡导 **100% 纯离线与零遥测隐私设计**（应用严禁网络权限，零数据收集）。
-- 🏎️ 热衷于 **Formula 1** 赛车工程、历史数据可视化与遥测数据分析。
+- 📱 喜欢折腾 **Android** 与 **Jetpack Compose**，写自己日常会用的轻量小工具。
+- 🛡️ 偏好 **100% 离线、零多余权限、无广告** 的纯粹软件体验。
+- 🏎️ 一名普通的 **Formula 1** 车迷，热衷于整理 F1 历史赛事数据与图表可视化。
+- ☕ 业余时间为爱发电，享受动手折腾代码与解决实际小需求的乐趣。
 
 ---
 
-### 🚀 精选开源项目 (Featured Projects)
+### 🚀 业余开源项目 (Featured Projects)
 
 <table>
   <tr>
@@ -35,30 +35,30 @@
         <a href="https://github.com/wg2038/f2shhh/releases"><img src="https://img.shields.io/badge/Release-v2.1.5-0057FF?style=flat-square&logo=github" alt="Release"></a>
         <img src="https://img.shields.io/badge/APK_Size-~2.2_MB-success?style=flat-square" alt="Size">
       </p>
-      <p>为三星 One UI、小米 HyperOS、OPPO、vivo 等非 Pixel 全系 Android 13+ 机型打造的 Pixel 级高精度翻转开启勿扰工具。融合空间重力矢量、生理手颤滤波与原生无损锁屏。</p>
+      <p>给三星 One UI、小米 HyperOS 等非 Pixel 手机打造的翻转开启勿扰小工具。支持双脉冲震动、手颤滤波防误触与原生无损锁屏，不向系统申请网络权限。</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏎️ <a href="https://github.com/wg2038/f1-archive">F1 Archive (2000–2025)</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" alt="WIP">
-        <img src="https://img.shields.io/badge/Language-Python_/_Data-blue?style=flat-square" alt="Lang">
+        <img src="https://img.shields.io/badge/Stack-Next.js_/_TypeScript-blue?style=flat-square" alt="Stack">
       </p>
-      <p>一级方程式赛车 2000–2025 赛季历史遥测、正赛排位数据与比赛圈速分析库，支持中英双语与结构化数据检索。</p>
+      <p>自己整理的 F1 2000–2025 赛季历史档案小站，包含分站成绩、逐站积分走势折线图、车手六维雷达对比与中英双语即时检索。</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ 技术栈与工具箱 (Tech Stack & Tooling)
+### 🛠️ 折腾的技术栈 (Tech Stack & Tooling)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Compose" />
-  <img src="https://img.shields.io/badge/Android_SDK_34-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git_/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <sub>⭐️ Crafted with precision by <strong>cicada</strong> · 2026</sub>
+  <sub>✨ Crafted with passion by <strong>cicada</strong> · 2026</sub>
 </p>
