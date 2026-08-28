@@ -66,8 +66,8 @@
 ### 📊 GitHub 动态与统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wg2038&show_icons=true&theme=radical&hide_border=true&title_color=007ec6&icon_color=007ec6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wg2038&layout=compact&theme=radical&hide_border=true&title_color=007ec6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wg2038&show_icons=true&theme=radical&hide_border=true&title_color=007ec6&icon_color=007ec6" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wg2038&layout=compact&theme=radical&hide_border=true&title_color=007ec6" width="48%" alt="Top Languages" />
 </p>
 
 ---
